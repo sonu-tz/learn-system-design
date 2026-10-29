@@ -1,1 +1,1 @@
-# learn-design-course
+# learn-system-design
